@@ -1,0 +1,234 @@
+==================================================
+AI RECRUITMENT REPORT
+==================================================
+==============================
+EXECUTION SUMMARY
+==============================
+Role: AI/ML Engineer
+Company: Accenture
+Recommendation: Reject
+Match Score: 25%
+Confidence: 88%
+==============================
+CANDIDATE INFORMATION
+==============================
+Name: Sakshi Dethe
+Email: sakshi@gmail.com
+Phone: 1234567890
+Location: Pune, Bangalore
+
+==============================
+JOB DESCRIPTION
+==============================
+Role: AI/ML Engineer
+Company: Accenture
+Experience Required: Minimum 5 years of real-time experience in Machine Learning
+Education Required: 15 years full time education; degree in Computer Science, Artificial Intelligence, Machine Learning or related field (Ph.D. highly desirable)
+
+Required Skills
+------------------------------
+• Machine Learning (ML)
+• Python
+• TensorFlow
+• PyTorch
+• Keras
+• Data structures
+• Algorithms
+• Software engineering principles
+• AWS
+• Azure
+• GCP
+• Natural Language Processing (NLP)
+• SpaCy
+• NLTK
+• Hugging Face
+• Data visualization (Matplotlib, Seaborn, Plotly)
+• Agile
+• Scrum
+
+------------------------------
+Responsibilities
+------------------------------
+• Implement generative AI models and identify insights to drive business decisions
+• Collaborate with cross-functional teams to define AI project requirements and objectives
+• Conduct research on latest advancements in generative AI, machine learning, and deep learning
+• Optimize existing generative AI models for performance, scalability, and efficiency
+• Ensure data quality and accuracy
+• Lead design and development of prompt engineering strategies for GenAI models
+• Implement cutting‑edge NLP techniques and prompt engineering methodologies
+• Determine effective prompt generation processes and collaborate with AI researchers and developers
+• Work with cloud platforms such as AWS, Azure, or GCP
+• Apply strong problem‑solving and analytical skills
+• Handle various data formats and sources for speech and voice applications in conversational AI
+• Perform statistical modelling
+• Develop deep learning algorithms and neural networks
+• Create clear documentation, technical specifications, user guides, and presentations
+• Contribute to best practices and standards for generative AI development
+
+==============================
+MATCH ANALYSIS
+==============================
+------------------------------
+Matched Skills (4)
+------------------------------
+✅ Python 
+✅ Natural Language Processing (NLP) 
+✅ Software engineering principles (Git/GitHub) 
+✅ Agile (implicit in internship projects) 
+------------------------------
+Missing Skills (13)
+------------------------------
+❌ Machine Learning (ML) frameworks: TensorFlow, PyTorch, Keras 
+❌ Data structures 
+❌ Algorithms 
+❌ AWS 
+❌ Azure 
+❌ GCP 
+❌ SpaCy 
+❌ NLTK 
+❌ Hugging Face 
+❌ Data visualization (Matplotlib, Seaborn, Plotly) 
+❌ Scrum 
+❌ Deep learning model development 
+❌ Statistical modelling 
+------------------------------
+Strengths
+------------------------------
+• Proficient in Python and modern LLM‑centric libraries (LangChain, LangGraph)
+• Practical experience building chatbots and RAG systems
+• Familiarity with API development (FastAPI) and automation tools (n8n, make)
+• Demonstrated ability to deliver end‑to‑end AI projects during internships
+------------------------------
+Weaknesses
+------------------------------
+• Only ~1 year of internship experience; far below the 5‑year requirement
+• No exposure to core ML/DL frameworks (TensorFlow, PyTorch, Keras)
+• Lacks cloud platform experience (AWS/Azure/GCP)
+• Missing key NLP libraries (SpaCy, NLTK, Hugging Face)
+• Education not yet completed; degree not aligned with required qualifications
+• No evidence of data structures, algorithms, statistical modelling, or data visualization expertise
+==============================
+INTERVIEW QUESTIONS
+==============================
+Question 1
+------------------------------
+Question   : Can you explain the difference between mutable and immutable types in Python, and give examples of when you would choose one over the other in a chatbot implementation?
+Category   : Technical - Python Fundamentals
+Difficulty : Fundamental
+Reason     : Verifies claimed Python proficiency and assesses understanding of core language concepts relevant to building reliable AI services.
+
+Question 2
+------------------------------
+Question   : Describe how you would use a hash table (dictionary) to efficiently retrieve a user's conversation context in a multi‑agent chatbot system.
+Category   : Technical - Data Structures
+Difficulty : Fundamental
+Reason     : Evaluates knowledge of basic data structures, a missing skill identified in the match analysis.
+
+Question 3
+------------------------------
+Question   : What is the time complexity of searching for a specific keyword in a list of documents, and how could you improve it using appropriate algorithms or data structures?
+Category   : Technical - Algorithms
+Difficulty : Fundamental
+Reason     : Assesses algorithmic thinking and ability to optimize NLP retrieval tasks, addressing missing algorithm skill.
+
+Question 4
+------------------------------
+Question   : Explain the bias‑variance trade‑off in supervised learning and how it influences model selection for a classification task.
+Category   : Technical - Machine Learning Basics
+Difficulty : Fundamental
+Reason     : Checks foundational ML understanding, a core requirement missing from the candidate's profile.
+
+Question 5
+------------------------------
+Question   : What are the main components of a transformer architecture, and why are they particularly suited for generative AI models like the ones you built with LangChain?
+Category   : Technical - Deep Learning Concepts
+Difficulty : Fundamental
+Reason     : Links candidate's LLM experience to essential deep learning concepts required for the role.
+
+Question 6
+------------------------------
+Question   : If you were to re‑implement one of your RAG pipelines using PyTorch, what steps would you take to convert the vector retrieval part into a differentiable module?
+Category   : Technical - ML Frameworks (TensorFlow/PyTorch)
+Difficulty : Fundamental
+Reason     : Probes ability to learn and apply missing deep‑learning frameworks, assessing learning agility.
+
+Question 7
+------------------------------
+Question   : How would you use SpaCy or NLTK to perform named entity recognition on user queries before passing them to your LangChain agents?
+Category   : Technical - NLP Libraries
+Difficulty : Fundamental
+Reason     : Targets missing NLP library experience while staying relevant to candidate's chatbot work.
+
+Question 8
+------------------------------
+Question   : Describe the process of loading a pre‑trained model from Hugging Face Hub and fine‑tuning it on a domain‑specific dataset for a FAQ bot.
+Category   : Technical - Hugging Face Ecosystem
+Difficulty : Fundamental
+Reason     : Evaluates familiarity with a key tool listed in the job description that the candidate lacks.
+
+Question 9
+------------------------------
+Question   : Outline how you would deploy a FastAPI‑based chatbot service on AWS using Elastic Beanstalk or ECS, mentioning key steps for scalability and security.
+Category   : Technical - Cloud Platforms
+Difficulty : Fundamental
+Reason     : Assesses basic cloud deployment knowledge, addressing missing AWS/Azure/GCP experience.
+
+Question 10
+------------------------------
+Question   : What plots would you create with Matplotlib or Seaborn to evaluate the performance of your RAG system, and why are they useful?
+Category   : Technical - Data Visualization
+Difficulty : Fundamental
+Reason     : Checks ability to visualize model metrics, a missing skill in the candidate's toolkit.
+
+Question 11
+------------------------------
+Question   : Explain how you would use statistical tests to compare two different prompt engineering strategies for a generative AI model.
+Category   : Technical - Statistical Modelling
+Difficulty : Fundamental
+Reason     : Evaluates understanding of statistical modelling, a gap identified in the analysis.
+
+Question 12
+------------------------------
+Question   : Walk me through the architecture of your Prompt2Flow project: how does a natural language prompt get transformed into an automated workflow, and what challenges did you face integrating n8n?
+Category   : Project – Prompt2Flow
+Difficulty : Fundamental
+Reason     : Validates claimed project experience and reveals problem‑solving approach.
+
+Question 13
+------------------------------
+Question   : In the Attendance System project, how did you handle ambiguous or noisy natural language inputs to ensure accurate ERP updates?
+Category   : Project – Attendance System
+Difficulty : Fundamental
+Reason     : Assesses robustness of NLP handling and practical implementation skills.
+
+Question 14
+------------------------------
+Question   : Given that you have limited exposure to core ML frameworks, how would you plan and execute a self‑learning roadmap to become proficient in TensorFlow or PyTorch within three months?
+Category   : Behavioral – Learning Ability
+Difficulty : Fundamental
+Reason     : Evaluates self‑directed learning capability, crucial for bridging skill gaps.
+
+Question 15
+------------------------------
+Question   : Describe a situation during your internships where you had to coordinate with cross‑functional teams (e.g., product, UI/UX) to deliver an AI feature. What communication strategies did you use?
+Category   : Behavioral – Team Collaboration
+Difficulty : Fundamental
+Reason     : Checks teamwork and communication skills, aligning with the collaborative nature of the role.
+
+Question 16
+------------------------------
+Question   : The job requires defining AI project requirements with stakeholders who may not be technical. How would you translate business objectives into concrete AI tasks?
+Category   : Behavioral – Handling Ambiguity
+Difficulty : Fundamental
+Reason     : Assesses ability to bridge business and technical domains, a key responsibility in the JD.
+
+==============================
+FINAL VERDICT
+==============================
+Recommendation : Reject
+Overall Score  : 25%
+Confidence     : 88%
+
+Reason: 
+------------------------------
+The candidate demonstrates solid Python programming and hands‑on experience with generative AI tools (LangChain, RAG, multi‑agent systems) and has built chatbot‑related projects. However, the role requires at least 5 years of real‑time ML experience, deep expertise in core ML/DL frameworks (TensorFlow/PyTorch/Keras), cloud platform proficiency, and a completed degree in a relevant field. The candidate only has two 6‑month internships, is still pursuing a B.Tech, and lacks many of the mandatory technical skills. Consequently, the fit for an AI/ML Engineer position at Accenture is very low.
